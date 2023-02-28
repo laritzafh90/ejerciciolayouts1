@@ -2,10 +2,14 @@ header{
     height: 100px;
 }
 nav{
-    height: 50px;
+    height: 300px;
+    width: 20%;
+    display: inline-block;
 }
 main{
     height: 300px;
+    width: 72%;
+    display: inline-block;
 }
 footer{
     height: 50px;
